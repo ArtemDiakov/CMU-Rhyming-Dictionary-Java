@@ -1,0 +1,21 @@
+# IntelliJ / IDE files
+.idea/
+*.iml
+out/
+
+# Java build output
+*.class
+target/
+build/
+
+# OS files
+.DS_Store
+
+# Large/local dictionary file
+cmudict.dict
+
+# Coursework/report files
+*.pdf
+*.docx
+*.zip
+*.gz
