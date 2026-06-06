@@ -46,3 +46,14 @@ For example, `cat` and `bat` rhyme because their final stressed vowel and follow
    ```bash
    git clone https://github.com/ArtemDiakov/CMU-Rhyming-Dictionary-Java.git
 
+2. Open the project in IntelliJ IDEA or another Java IDE.
+
+3. Download the CMU Pronouncing Dictionary file separately.
+
+4. Place the dictionary file in the project root or update the dictionary path used by the tests/CLI.
+
+5. Run the JUnit tests or launch RhymeDictionaryCLI.
+
+## Notes
+
+The assignment framework included provided interfaces and JUnit tests. The solution classes and command-line interface were implemented by me.
